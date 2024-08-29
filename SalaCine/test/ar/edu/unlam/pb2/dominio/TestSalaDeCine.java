@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class TestSalaDeCine {
 
-	
+	// cambios
 	@Test
 	 public void dadoQueExisteUnaSalaDeCineCon10Butacasy5FilasEstaContine10Butacasy5Filas(){
 		 SalaDeCine sala = new SalaDeCine();
